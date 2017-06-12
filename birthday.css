@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Oxygen+Mono');
+
+p {
+    font-family: 'Oxygen Mono', monospace;
+    font-size: 10px;
+}
+p.hey {
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+body {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+}
+footer {
+    margin-top: 150px;
+}
