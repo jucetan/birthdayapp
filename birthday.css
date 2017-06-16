@@ -6,6 +6,10 @@ p {
     font-family: 'Oxygen Mono', monospace;
     font-size: 10px;
 }
+#birthday {
+    margin-top: 50px;
+    color: #14CCB5;
+}
 a {
      color: #FFD019;
 }
@@ -26,6 +30,7 @@ body {
 
 }
 footer {
-    margin-top: 150px;
+    text-decoration: 
+    margin-top: 80px;
     color: #14CCB5;
 }
